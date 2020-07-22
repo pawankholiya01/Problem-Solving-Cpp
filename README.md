@@ -3,7 +3,7 @@ Its my dumping ground for various C++ codes I wrote for classical/competitive Pr
 
 
 ## Tips (Go to Approach) :
-
+```
 If given a Tree/Graph then
 - DFS
 - BFS
@@ -60,7 +60,7 @@ If O(logn) time operations needed then
 
 If find first/Number of elements greater than/equal to then 
 - lower_bound, upper_bound (in sorted )
-
+```
 ## My Profiles
 [Codeforces](https://codeforces.com/profile/pawan.kholiya01)
 [Codechef](https://codechef.com/users/pawan.kholiya01)
