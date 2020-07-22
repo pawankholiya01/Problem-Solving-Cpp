@@ -1,17 +1,10 @@
-/*
-*  - by Pawan Kholiya 
-*     github//pawankholiya01
-*
-*/
-
 #include <iostream>
 #include <vector>
 #include<queue>
 
 using namespace std;
 
-class Graph 
-{
+class Graph {
   int vertices;
   vector<vector<int>  >adjacencyList;
   vector<bool> visited;
@@ -34,7 +27,7 @@ class Graph
 };
 
 
-// Depth First Search
+
 void Graph::DFS(int node)
 {
   visited[node] = true;
@@ -46,7 +39,6 @@ void Graph::DFS(int node)
       DFS(neighbour);
 }
 
-//Helper Function
 int main()
 {
   int vertice,n;
@@ -69,6 +61,8 @@ int main()
 
   cout<<"DFS of thr graph is : \n\n";
   g.DFS(node);
+
+
 
   return 0;
 }
