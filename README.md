@@ -60,3 +60,7 @@ If O(logn) time operations needed then
 
 If find first/Number of elements greater than/equal to then 
 - lower_bound, upper_bound (in sorted )
+
+## My Profiles
+[Codeforces](https://codeforces.com/profile/pawan.kholiya01)
+(https://codechef.com/users/pawankholiya01)[Codechef]
