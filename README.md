@@ -1,5 +1,5 @@
 # Problem-Solving-Cpp
-Its my dumping ground for various C++ codes I wrote for classical/cpmpetitive Programming Problems.
+Its my dumping ground for various C++ codes I wrote for classical/competitive Programming Problems.
 
 
 ## Tips (Go to Approach) :
@@ -56,7 +56,7 @@ If O(1) operations needed then
 - map or unordered_map 
 
 If O(logn) time operations needed then 
--set , multi_set
+- set , multi_set
 
 If find first/Number of elements greater than/equal to then 
 - lower_bound, upper_bound (in sorted )
