@@ -1,4 +1,4 @@
-# Problem-Solving-Cpp
+# Problem-Solving-C++
 Its my dumping ground for various C++ codes I wrote for classical/competitive Programming Problems.
 
 
@@ -63,4 +63,5 @@ If find first/Number of elements greater than/equal to then
 
 ## My Profiles
 [Codeforces](https://codeforces.com/profile/pawan.kholiya01)
-(https://codechef.com/users/pawankholiya01)[Codechef]
+[Codechef](https://codechef.com/users/pawan.kholiya01)
+[HackerEarth] (https://www.hackerearth.com/@Pawan_kholiya)
