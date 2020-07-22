@@ -13,8 +13,7 @@ If input array is sorted then
 - Binary search
 - Two pointers
 
-If asked/generate all permutations/subsets then
-- Backtracking
+If asked/generate all permutations/subsets then  - Backtracking
 
 If asked to generate any/all solutions 
 - Backtracking
