@@ -63,5 +63,7 @@ If find first/Number of elements greater than/equal to then
 ```
 ## My Profiles
 [Codeforces](https://codeforces.com/profile/pawan.kholiya01)
+
 [Codechef](https://codechef.com/users/pawan.kholiya01)
-[HackerEarth] (https://www.hackerearth.com/@Pawan_kholiya)
+
+[HackerEarth](https://www.hackerearth.com/@Pawan_kholiya)
