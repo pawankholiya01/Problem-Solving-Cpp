@@ -1,6 +1,8 @@
 # Problem-Solving-C++
 Its my dumping ground for various C++ codes I wrote for classical/competitive Programming Problems.
 
+Organised them on the general algorothmic pattern they heavily depends upon
+
 
 ## Tips (Go to Approach) :
 ```
