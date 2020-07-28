@@ -1,20 +1,20 @@
-## 1. Maximum Sum Subarray
+### 1. Maximum Sum Subarray
 
-## 2. Climbing Stairs
+### 2. Climbing Stairs
 
-## 3. Best Time to buy and Sell Stocks
+### 3. Best Time to buy and Sell Stocks
 
-## 4. House Robber 
+### 4. House Robber 
 
-## 5. Coin Change
+### 5. Coin Change
 
-## 6. Maximum Product Subarray
+### 6. Maximum Product Subarray
 
-## 7. Unique Binary Search Trees
+### 7. Unique Binary Search Trees
 
-## 8. Unique Path
+### 8. Unique Path
 
-## 9. Ugly Numberws
+### 9. Ugly Numberws
 
 
 
